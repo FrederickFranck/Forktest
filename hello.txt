@@ -1,2 +1,1 @@
-Hello this is Frederick
-
+Conflicted resolved by deleting the two lines.
